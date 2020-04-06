@@ -1,0 +1,8 @@
+2020-04-03
+- crear registro para varios estudiantes
+- organizar todo en una sola ventana
+
+2020-04-05
+- ya se puede llevar el registro de varios estudiantes
+- listo una sola ventana
+
