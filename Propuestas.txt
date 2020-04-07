@@ -9,3 +9,6 @@
 2020-04-07
 - agregado boton de repaso
 
+2020-04-07
+- arreglos en los controles
+
