@@ -6,3 +6,6 @@
 - ya se puede llevar el registro de varios estudiantes
 - listo una sola ventana
 
+2020-04-07
+- agregado boton de repaso
+
